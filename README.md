@@ -20,6 +20,10 @@ This project was one of the beginner projects a React Course offerred freely by 
 ## How To Run
 After downloading the project file and unzipping, you are to navigate into the project folder and run these commands as follows:
 
+    npm install
+    npm run dev
+
+
 
 ## What I learnt While Building This
 
