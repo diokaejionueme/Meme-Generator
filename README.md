@@ -5,8 +5,6 @@
 ![Meme Logo](https://res.cloudinary.com/ddguot7sx/image/upload/v1665527565/MemeLogo_d8ad9p.png)
 
 
-[youtube channel](https://www.youtube.com "Jay Baba")
-## Description
 
 This is an interactive app generates a __random meme__ from an API. 
 
